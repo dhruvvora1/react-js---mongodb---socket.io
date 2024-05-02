@@ -37,7 +37,7 @@ First of all you need to clone the repository and install the dependencies
 
 ```shell
 
-git clone https://github.com/srujan-nalam/Link-chat-application.git
+git clone https://github.com/dhruvvora1/react-js---mongodb---socket.io.git
 cd client
 npm install
 cd ..
